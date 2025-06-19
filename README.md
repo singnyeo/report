@@ -84,15 +84,15 @@
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성 (groupId = 6).png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성 (groupId = 6).png" height="300" style="object-fit: contain;"/><br/>
       <b>POST 그룹 생성</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성 (groupId= 6) (2).png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성 (groupId= 6) (2).png" height="300" style="object-fit: contain;"/><br/>
       <b>POST 그룹 생성 결과</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성.png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성.png" height="300" style="object-fit: contain;"/><br/>
       <b>FRONT 그룹 생성</b>
     </td>
   </tr>
@@ -103,21 +103,21 @@
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 (goalRep = 15).png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 수정 (goalRep = 15).png" height="200" style="object-fit: contain;"/><br/>
       <b>Front 목표 횟수 10 → 15</b>
     </td>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 목표 횟수.png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 수정 목표 횟수.png" height="200" style="object-fit: contain;"/><br/>
       <b>Front 목표 횟수 10 → 15 결과</b>
     </td>
   </tr>
   <tr>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 groupid.png" height="400"/><br/>
+      <img src="images/groups/그룹 수정 groupid.png" height="200"/><br/>
       <b>PATCH groupId: 6 레포츠 → 헬스마니아</b>
     </td>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 결과.png" height="400"/><br/>
+      <img src="images/groups/그룹 수정 결과.png" height="200"/><br/>
       <b>PATCH groupId: 6 레포츠 → 헬스마니아 결과</b>
     </td>
   </tr>
@@ -129,11 +129,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/groups/그룹 삭제 비밀번호 입력.png" height="300"/><br/>
+      <img src="images/groups/그룹 삭제 비밀번호 입력.png" width="70%"/><br/>
       <b>DELETE 그룹 삭제 비밀번호 입력</b>
     </td>
     <td align="center">
-      <img src="images/groups/그룹 삭제 포스트맨.png" height="300"/><br/>
+      <img src="images/groups/그룹 삭제 포스트맨.png" width="70%"/><br/>
       <b>DELETE 그룹 삭제 POSTMAN</b>
     </td>
   </tr>
@@ -174,15 +174,15 @@
   <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 프론트.png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 프론트.png" height="300" style="object-fit: contain;"/><br/>
       <b>FRONT 그룹 추천</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 포스트맨.png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 포스트맨.png" height="300" style="object-fit: contain;"/><br/>
       <b>POST 그룹 추천</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 취소 포스트맨.png" height="400" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 취소 포스트맨.png" height="300" style="object-fit: contain;"/><br/>
       <b>DELETE 그룹 추천 취소</b>
     </td>
   </tr>
