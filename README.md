@@ -78,21 +78,22 @@
 - 팀원 역할, 일정, 커뮤니케이션 규칙 등을 확인하세요.
 
 ## ⚙️ 팀원별 구현 기능 상세
+## ⚙️ 팀원별 구현 기능 상세
 ### **차수연**
 ### **그룹 등록**
   - 그룹명, 설명, 닉네임, 비밀번호, 사진(한 장), 태그, 목표 횟수, 디스코드 웹훅 URL, 디스코드 서버 초대 URL을 입력하여 등록
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성 (groupId = 6).png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성 (groupId = 6).png" height="400" style="object-fit: contain;"/><br/>
       <b>POST 그룹 생성</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성 (groupId= 6) (2).png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성 (groupId= 6) (2).png" height="400" style="object-fit: contain;"/><br/>
       <b>POST 그룹 생성 결과</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 생성.png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 생성.png" height="400" style="object-fit: contain;"/><br/>
       <b>FRONT 그룹 생성</b>
     </td>
   </tr>
@@ -103,21 +104,21 @@
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 (goalRep = 15).png" height="200" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 수정 (goalRep = 15).png" height="400" style="object-fit: contain;"/><br/>
       <b>Front 목표 횟수 10 → 15</b>
     </td>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 목표 횟수.png" height="200" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 수정 목표 횟수.png" height="400" style="object-fit: contain;"/><br/>
       <b>Front 목표 횟수 10 → 15 결과</b>
     </td>
   </tr>
   <tr>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 groupid.png" height="200"/><br/>
+      <img src="images/groups/그룹 수정 groupid.png" height="400"/><br/>
       <b>PATCH groupId: 6 레포츠 → 헬스마니아</b>
     </td>
     <td align="center" style="width:50%;">
-      <img src="images/groups/그룹 수정 결과.png" height="200"/><br/>
+      <img src="images/groups/그룹 수정 결과.png" height="400"/><br/>
       <b>PATCH groupId: 6 레포츠 → 헬스마니아 결과</b>
     </td>
   </tr>
@@ -129,11 +130,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/groups/그룹 삭제 비밀번호 입력.png" width="70%"/><br/>
+      <img src="images/groups/그룹 삭제 비밀번호 입력.png" height="300"/><br/>
       <b>DELETE 그룹 삭제 비밀번호 입력</b>
     </td>
     <td align="center">
-      <img src="images/groups/그룹 삭제 포스트맨.png" width="70%"/><br/>
+      <img src="images/groups/그룹 삭제 포스트맨.png" height="300"/><br/>
       <b>DELETE 그룹 삭제 POSTMAN</b>
     </td>
   </tr>
@@ -174,15 +175,15 @@
   <table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 프론트.png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 프론트.png" height="400" style="object-fit: contain;"/><br/>
       <b>FRONT 그룹 추천</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 포스트맨.png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 포스트맨.png" height="400" style="object-fit: contain;"/><br/>
       <b>POST 그룹 추천</b>
     </td>
     <td align="center" style="width:33%;">
-      <img src="images/groups/그룹 추천 취소 포스트맨.png" height="300" style="object-fit: contain;"/><br/>
+      <img src="images/groups/그룹 추천 취소 포스트맨.png" height="400" style="object-fit: contain;"/><br/>
       <b>DELETE 그룹 추천 취소</b>
     </td>
   </tr>
@@ -274,15 +275,6 @@
     </td>
   </tr>
 </table>
-
-
-- **기록 상세 조회**
-  - 운동 종류, 설명, 사진(여러장), 시간, 거리, 닉네임 조회
-
-- **기록 랭킹 조회**
-  - 운동 기록 많은 순으로 주간, 월간 랭킹 조회
-  - 닉네임, 기록 횟수, 누적 시간 조회
-  - 페이지네이션
 
 ### 공통 요구 사항
 
