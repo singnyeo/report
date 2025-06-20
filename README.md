@@ -521,8 +521,7 @@ README.md
 
 ## 구현 홈페이지
 
-[개발한 홈페이지 링크](https://www.codeit.kr/)
+[백엔드 링크](https://three-sprint-mission-4goe.onrender.com/)
+[프론트엔드 링크](https://nb02-seven-team2-mobq.onrender.com/)
 
-## 프로젝트 회고록
-
-*(제작한 발표자료 링크 혹은 첨부파일 첨부)*
+// ## 프로젝트 회고록
