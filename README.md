@@ -143,6 +143,19 @@
   - 여러 파일 업로드 가능
   - 이미지 파일만 허용
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/uploads/업로드 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>이미지 등록</b>
+    </td>
+    <td align="center">
+      <img src="images/uploads/업로트 프론트(2).png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>이미지 등록 결과</b>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 이종진
@@ -271,11 +284,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록 목록 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록 목록 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>FRONT 기록 목록 조회</b>
     </td>
     <td align="center">
-      <img src="images/기록 목록 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록 목록 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>FRONT 기록 목록 조회 페이지네이션</b>
     </td>
   </tr>
@@ -284,7 +297,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록 목록 조회.png" width="80%" style="aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록 목록 조회.png" width="80%" style="aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>GET 기록 목록 조회</b>
     </td>
   </tr>
@@ -299,7 +312,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록%20목록%20상세%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록%20목록%20상세%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>GET 기록 목록 상세 조회</b>
     </td>
   </tr>
@@ -313,11 +326,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록%20랭킹%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록%20랭킹%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>GET 기록 랭킹 조회</b>
     </td>
     <td align="center">
-      <img src="images/기록 랭크 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록 랭크 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>GET 기록 랭킹 조회 페이지네이션</b>
     </td>
   </tr>
@@ -326,7 +339,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록 랭크 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <img src="images/records/기록 랭크 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
       <b>FRONT 기록 랭크 조회</b>
     </td>
   </tr>
