@@ -256,13 +256,26 @@
 ---
 
 ### 박성국
-*(자신이 개발한 기능에 대한 사진이나 gif 파일 첨부)*
-
 - **기록 등록**
   - 닉네임, 운동 종류(달리기, 자전거, 수영), 설명, 시간, 거리, 사진(여러장 가능), 비밀번호 입력하여 운동 기록 등록
   - 타이머를 통해 측정된 실제 운동한 만큼의 시간만 입력 가능
   - 닉네임, 비밀번호를 확인하여 그룹에 등록된 유저일 때만 기록 등록
-  - 새로운 운동 기록이 등록 되었을 때 그룹에 등록된 디스코드 웹 서버로 알림 전송
+  - 새로운 운동 기록이 등록 되었을 때 그룹에 등록된 디스코드 웹 서버 알림 전송
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/records/기록 생성 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 기록 등록</b>
+    </td>
+    <td align="center">
+      <img src="images/records/기록 생성 디스코드 웹 서버 알림.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 디스코트 웹 서버 알림</b>
+    </td>
+  </tr>
+</table>
+
+
+
 - **태그 목록 조회**
   - 등록된 태그 목록 조회
   - 태그 이름으로 검색 가능
@@ -270,6 +283,18 @@
   - 페이지네이션
 - **태그 상세 조회**
   - 태그 이름, 생성일, 수정일 조회
+  <table>
+  <tr>
+    <td align="center">
+      <img src="images/tags/그룹 태그 조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>그룹 태그 조회</b>
+      <td align="center">
+      <img src="images/tags/그룹 태그 상세 조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>그룹 태그 상세 조회</b>
+    </td>
+  </tr>
+</table>
+
     
 ---
 
@@ -520,9 +545,7 @@ README.md
 ```
 
 ## 구현 홈페이지
+[프론트엔드 서버 배포 주소](https://nb02-seven-team2-mobq.onrender.com/)
+/
+[백엔드 서버 배포 주소](https://three-sprint-mission-4goe.onrender.com/)
 
-[백엔드 링크](https://three-sprint-mission-4goe.onrender.com/)
-[프론트엔드 링크](https://nb02-seven-team2-mobq.onrender.com/)
-
-## 프로젝트 회고록
-작성 예정
