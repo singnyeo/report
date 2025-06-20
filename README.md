@@ -164,6 +164,15 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/groups/그룹 목록 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 그룹 목록 조회</b>
+    </td>
+  </tr>
+</table>
+
 ### **그룹 상세 조회**
   - 그룹명, 설명, 닉네임, 사진, 태그, 목표 횟수, 참여자 수, 디스코드 서버 초대 URL을 조회
   <table>
