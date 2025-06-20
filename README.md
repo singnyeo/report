@@ -133,7 +133,7 @@
     </td>
     <td align="center">
       <img src="images/groups/그룹 삭제 포스트맨.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
-      <b>DELETE 그룹 삭제 POSTMAN</b>
+      <b>DELETE 그룹 삭제</b>
     </td>
   </tr>
 </table>
@@ -221,7 +221,7 @@
   </tr>
 </table>
 
-- **그룹 배지**
+### **그룹 배지**
   - 그룹이 일정 조건을 달성하면 자동으로 배지 획득
     - 참여자 10명 이상
     - 운동 기록 100개 이상
@@ -251,23 +251,42 @@
 - 최신순, 운동시간순 정렬
 - 닉네임 검색
 - 페이지네이션
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/기록 목록 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 기록 목록 조회</b>
+    </td>
+    <td align="center">
+      <img src="images/기록 목록 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 기록 목록 조회 페이지네이션</b>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
     <td align="center">
       <img src="images/기록 목록 조회.png" width="80%" style="aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
-      <b>기록 목록 조회</b>
+      <b>GET 기록 목록 조회</b>
     </td>
   </tr>
 </table>
 
 ## 강시연
 **기록 상세 조회**
-
 - 운동 종류, 설명, 사진(여러장), 시간, 거리, 닉네임 조회
 
-**기록 랭킹 조회**
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/기록%20목록%20상세%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>GET 기록 목록 상세 조회</b>
+    </td>
+  </tr>
+</table>
 
+**기록 랭킹 조회**
 - 운동 기록 많은 순으로 주간, 월간 랭킹 조회
 - 닉네임, 기록 횟수, 누적 시간 조회
 - 페이지네이션
@@ -275,12 +294,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/기록%20목록%20상세%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
-      <b>기록 목록 상세 조회</b>
+      <img src="images/기록%20랭킹%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>GET 기록 랭킹 조회</b>
     </td>
     <td align="center">
-      <img src="images/기록%20랭킹%20조회.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
-      <b>기록 랭킹 조회</b>
+      <img src="images/기록 랭크 조회 페이지네이션.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>GET 기록 랭킹 조회 페이지네이션</b>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/기록 랭크 조회 프론트.png" height="300" style="width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px;" /><br/>
+      <b>FRONT 기록 랭크 조회</b>
     </td>
   </tr>
 </table>
